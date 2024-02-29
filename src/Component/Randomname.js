@@ -31,7 +31,7 @@ function Randomname() {
               <a class="nav-link active" href="https://www.instagram.com/sathiskumar.sathis.1612147/?hl=en" >075-9686864 <img src={phone}/></a>
             </li>
             <li class="nav-item">
-              <a class="nav-link active " aria-disabled="true"href="https://www.facebook.com/sathiskumar.sathis.1612147/">Rathnapura,Rakwana <img src={facebook} /></a>
+              <a class="nav-link active " aria-disabled="true"href=" ">Rathnapura,Rakwana <img src={facebook} /></a>
             </li>
           </ul>
         </div>
@@ -41,14 +41,14 @@ function Randomname() {
     
 
   
-    <div class="container text-center  ">
+    <div class="container3 text-center  ">
       <div class="row">
       <div class="col">
           <div class="container1">
             <img src={face} alt="Your Image" class="img-fluid rounded mt-5 " width="500"  ></img>
           </div>
         </div>
-        <div class="col ">
+        <div class="col">
           <div class="container     w-100   mt-5 pt-5 ">
             <h1>I'm sathis </h1>
             <h1>Software Engineer undergraduate.my GPA is 3.6</h1>

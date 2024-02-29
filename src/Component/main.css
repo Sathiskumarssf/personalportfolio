@@ -44,7 +44,7 @@
     width: 50%;
 }
 
-@media only screen and (min-width: 390px) and (max-width:768px) {
+@media only screen and (min-width: 330px) and (max-width:768px) {
     .container button{
         font-size: 15px;
         margin-left: ' 5px';
@@ -70,8 +70,14 @@
     }
     .img-fluid{
         height:90%;
-        width:100%;
+        width:90%;
     }
+
+    .relativeq,.relativeb{
+        width: 250%;
+    }
+
+     
   }
 
 
