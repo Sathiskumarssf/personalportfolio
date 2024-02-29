@@ -123,7 +123,7 @@ function Myskill() {
     </div>
      
       <h1>Soft Skills</h1>
-      <div class="row p-5"  style={{margin:'3%'}}>
+      <div class="row p-5"  style={{margin:'1%'}}>
              <div class="col" style={{float:'left'}}>
                  <h1 style={{color:'white',margin:'5% 0% 0% 5%' }}>Leadership </h1>      
              </div>
